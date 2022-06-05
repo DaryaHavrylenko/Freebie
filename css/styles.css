@@ -65,9 +65,9 @@ img {
     padding: 47px 34px 47px 80px;
 }
 
-.header {
+/* .header {
     background-color: var(--header-backgraund-color);
-}
+} */
 
 .logo:hover .logo__svg,
 .logo:focus .logo__svg {
